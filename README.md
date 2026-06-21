@@ -1,2 +1,0 @@
-- 👋 Hi, I’m Nick
-- 🇳🇱 I live in The Netherlands
